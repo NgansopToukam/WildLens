@@ -1,0 +1,16 @@
+# Environnements virtuels
+venv/
+.venv/
+
+# Dépendances
+node_modules/
+
+# Fichiers de configuration locaux
+.env
+
+# Fichiers temporaires
+*.log
+*.tmp
+
+# Fichiers spécifiques à l'IDE
+.vscode/
